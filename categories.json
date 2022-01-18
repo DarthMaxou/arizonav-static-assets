@@ -1,22 +1,24 @@
-{
-	"title": "Работы",
-	"elements": [
-		{
-			"name": "fraction/army.html",
-			"title": "Автомеханик",
-		},
-		{
-			"name": "test2",
-			"title": "Автомеханик 2",
-		}
-	]
-},
-{
-	"title": "Организации",
-	"elements": [
-		{
-			"name": "test3",
-			"title": "Автомеханик 3",
-		}
-	]
-}
+[
+    {
+        "title": "Работы",
+        "elements": [
+            {
+                "name": "fraction/army.html",
+                "title": "Автомеханик",
+            },
+            {
+                "name": "test2",
+                "title": "Автомеханик 2",
+            }
+        ]
+    },
+    {
+        "title": "Организации",
+        "elements": [
+            {
+                "name": "test3",
+                "title": "Автомеханик 3",
+            }
+        ]
+    }
+]
