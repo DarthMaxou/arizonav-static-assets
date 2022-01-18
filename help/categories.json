@@ -1,0 +1,108 @@
+[
+	{
+		"title": "Работы",
+		"elements": [
+			{
+
+				"name": "jobs/farm.html",
+				"title": "Фермер"
+
+			},
+			{
+
+				"name": "jobs/landmower.html",
+				"title": "Газонокосильщик"
+
+			},
+			{
+
+				"name": "jobs/gopostal.html",
+				"title": "Почтальон"
+
+			},
+			{
+
+				"name": "jobs/taxi.html",
+				"title": "Таксист"
+
+			},
+			{
+
+				"name": "jobs/busdriver.html",
+				"title": "Водитель автобуса"
+
+			},
+			{
+
+				"name": "jobs/trucker.html",
+				"title": "Дальнобойщик"
+
+			},
+			{
+
+				"name": "jobs/collector.html",
+				"title": "Инкассатор"
+
+			},
+			{
+
+				"name": "jobs/automechanic.html",
+				"title": "Автомеханик"
+
+			}
+		]
+	},
+	{
+		"title": "Организации",
+		"elements": [
+			{
+
+				"name": "fractions/army.html",
+				"title": "ВВС Национальной гвардии"
+
+			},
+			{
+
+				"name": "fractions/cityhall.html",
+				"title": "Мэрия города Лос-Сантос"
+
+			},
+			{
+
+				"name": "fractions/dmv.html",
+				"title": "Центр лицензирования"
+
+			},
+			{
+
+				"name": "fractions/ems.html",
+				"title": "Госпиталь"
+
+			},
+			{
+
+				"name": "fractions/fbi.html",
+				"title": "ФИБ"
+
+			},
+			{
+
+				"name": "fractions/lspd.html",
+				"title": "Полиция Лос-Сантоса"
+
+			},
+			{
+
+				"name": "fractions/sheriff.html",
+				"title": "Офис шерифа"
+
+			},
+			{
+
+				"name": "fractions/weazlenews.html",
+				"title": "Новостное агенство"
+
+			}
+		]
+	}
+]
