@@ -57,6 +57,12 @@
 		"elements": [
 			{
 
+				"name": "fractions/example.html",
+				"title": "Фермер"
+
+			},
+			{
+
 				"name": "fractions/army.html",
 				"title": "ВВС Национальной гвардии"
 
